@@ -1,30 +1,24 @@
 # Persona2Web
 
-A comprehensive framework for personalized web navigation agents. This repository contains two distinct approaches for automated web browsing with memory-enhanced capabilities.
+A comprehensive framework for personalized web navigation agents. This repository contains two distinct memory access schemes for automated web browsing with personalization module.
 
 ## Overview
 
-Persona2Web provides intelligent web agents that perform personalized web navigation tasks using user memory banks. The framework supports multiple LLM providers and offers different memory access strategies for task execution.
+Persona2Web provides web agents that perform personalized web navigation tasks using user memory banks. The framework supports multiple LLM providers and offers different memory access strategies and ambiguity levels for task execution.
 
 ## Projects
 
 ### 1. AgentOccam
 
-AgentOccam is an intelligent web agent system built on Playwright for realistic web interaction.
+AgentOccam is a web agent system built on Playwright for realistic web interaction.
 
-#### Key Features
+#### Personalization Schemes
 
-- **Personalized Memory Banks**: 50 pre-configured user personas with preferences stored in JSON format
-- **Multi-LLM Support**: Compatible with GPT-4, O3, Gemini, Qwen, and Llama models
-- **Parallel Execution**: Run multiple tasks concurrently across 5 terminal shards
-- **Flexible Memory Strategies**: Choose between pre-execution and on-demand memory access
-
-#### Memory Access Strategies
-
-| Strategy | Description |
-|----------|-------------|
-| **Pre-execution** | Retrieves relevant memories before task execution to refine the objective |
-| **On-demand** | Accesses memory dynamically during task execution when needed |
+| Scheme | Description | Memory Access |
+|--------|-------------|---------------|
+| `on-demand` | Query memory during execution as needed | Real-time |
+| `pre-execution` | Analyze memory and augment task before execution | Pre-processed |
+| `no-history` | Pure web navigation without memory | Disabled |
 
 #### Architecture
 
@@ -68,14 +62,7 @@ python agent_runner.py --config AgentOccam/configs/pre-execution_o3_1.yml
 
 ### 2. Browser-Use
 
-Browser-Use provides a streamlined experiment runner for personalized web browsing tasks with sharded parallel execution.
-
-#### Key Features
-
-- **Experiment-focused Design**: Optimized for running personalization experiments
-- **Configuration-driven**: YAML-based experiment configuration
-- **Three Personalization Schemes**: on-demand, pre-execution, and no-history modes
-- **Automatic Resume**: Skips completed tasks when resuming interrupted experiments
+Browser-Use provides an experiment runner for personalized web browsing tasks.
 
 #### Personalization Schemes
 
@@ -124,52 +111,31 @@ uv run agent_runner.py --config config/on-demand_o3_1.yml
 
 ---
 
-## Comparison
-
-| Feature | AgentOccam | Browser-Use |
-|---------|------------|-------------|
-| Memory Strategies | Pre-execution, On-demand | Pre-execution, On-demand, No-history |
-| LLM Support | GPT-4, O3, Gemini, Qwen, Llama | OpenAI, Google, Anthropic |
-| Parallel Execution | 5 terminal shards | 5 terminal shards |
-| Configuration | YAML | YAML |
-| Browser Engine | Playwright (stealth mode) | Browser-Use framework |
-| Memory Retrieval | FAISS-based | FAISS-based |
-
 ## Task File Format
 
-Both systems use similar task file formats:
+Both systems use the same task file formats:
 
 ```json
 {
   "task_id": "Alex_Garcia_A1",
   "intent": "Book a hotel in San Francisco",
-  "start_url": "https://www.booking.com",
-  "persona": "Alex_Garcia"
+  "start_url": "https://www.bing.com"
 }
 ```
-
-## Memory Bank Structure
-
-User personas are stored as JSON files containing preferences such as:
-- Favorite websites and brands
-- Dietary restrictions and preferences
-- Shopping habits and sizes
-- Travel preferences
-- Entertainment choices
 
 ## Supported LLM Models
 
 ### OpenAI
-- gpt-4-turbo, gpt-4o, o3-mini, o3
+- gpt-4.1, o3
 
 ### Google Gemini
-- gemini-2.0-flash-exp, gemini-1.5-pro
+- gemini-2.5-flash, gemini-2.5-pro
 
 ### Qwen (via DashScope)
-- qwen3-next-80b-a3b-thinking, qwen-max
+- qwen3-next-80b-a3b-instruct, qwen3-next-80b-a3b-thinking
 
 ### Meta Llama (via OpenRouter)
-- llama-3.1-405b, llama-3.1-70b
+- llama-3.3-70b
 
 ## Output
 
@@ -177,7 +143,6 @@ Both systems save trajectories containing:
 - Task objective and configuration
 - Step-by-step actions and observations
 - Memory access events
-- Success/failure status
 - Execution metadata
 
 ## License
