@@ -4,3 +4,7 @@ __pycache__/
 .env
 .DS_Store
 
+
+# Exclude memory banks from public release
+AgentOccam/AgentOccam/memory_bank/
+browser-use/browser_use/memory_bank/
