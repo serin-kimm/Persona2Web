@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jordan_Rodriguez_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At ikea.com, find a bookcase that matches **solid wood or metal-frame bookcases**, meets **a budget up to $250**, and add the top match to my cart. (Austin, TX 78701)",
+  "require_reset": false
+}

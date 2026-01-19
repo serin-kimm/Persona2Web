@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Lewis_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At ultimate-guitar.com, search for accurate guitar tabs with **intermediate** tab difficulty focused on clean funk and psych-rock rhythms from **John Mayer, Tame Impala**; exclude heavy metal entries. (Houston, TX 77001)",
+  "require_reset": false
+}

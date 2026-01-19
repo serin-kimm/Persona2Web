@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Thompson_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At weather.com, check the hourly precipitation and wind forecast for this morning in **New York**, with temperatures shown in **F**. (New York, NY 10001)",
+  "require_reset": false
+}

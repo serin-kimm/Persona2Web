@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Alex_Smith_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find almond milk that matches **vanilla flavor excluded** and stays within **under $4.99**, then add one to cart.",
+  "require_reset": false
+}

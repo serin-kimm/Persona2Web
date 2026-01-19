@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Logan_Jones_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find men's training tees and running shorts for gym use that match **moisture-wicking** material preference and **under $35** price criteria, and add the top match to my cart.",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Quinn_Davis_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search on cookpad for weeknight dinner recipes that fit **20-30 minutes** cook time and **small-batch recipes suitable for one** portion size.",
+  "require_reset": false
+}

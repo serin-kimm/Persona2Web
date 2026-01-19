@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Thompson_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At discogs.com, search the Discogs Marketplace for vinyl LPs in **1970s soul and jazz** priced under **25 USD**, sorted by newly listed. (New York, NY 10001)",
+  "require_reset": false
+}

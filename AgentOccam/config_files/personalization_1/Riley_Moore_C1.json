@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Riley_Moore_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find and shortlist 3 Specializations in my priority topic area that align with my usual weekly workload.",
+  "require_reset": false
+}

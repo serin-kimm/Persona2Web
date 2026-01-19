@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Sage_Lee_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Show me an available parking spot near Kay Bailey Hutchison Convention Center in downtown Dallas for tomorrow from 12:00 PM to 4:00 PM that matches my usual walking-distance limit and my preferred parking budget.",
+  "require_reset": false
+}

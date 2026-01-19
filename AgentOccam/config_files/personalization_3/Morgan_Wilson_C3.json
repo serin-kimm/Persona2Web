@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Wilson_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At tripadvisor.com, check the latest reviews and traveler photos for **The Westin New York Grand Central** and confirm it still meets **rating 4.0+ with 500+ reviews**. (Philadelphia, PA 19101)",
+  "require_reset": false
+}

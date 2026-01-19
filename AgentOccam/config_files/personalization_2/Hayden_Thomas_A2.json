@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Thomas_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: On websites, find monitors that match **27-32 inch; 1440p or 4K** specs, and apply **open-box and clearance** condition and **rating 4.5+ with 200+ reviews** threshold; sort by price low to high.",
+  "require_reset": false
+}

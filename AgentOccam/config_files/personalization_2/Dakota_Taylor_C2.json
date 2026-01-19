@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Dakota_Taylor_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for teen-friendly gaming tournaments and meetups in **Denver** on **Saturday afternoons**.",
+  "require_reset": false
+}

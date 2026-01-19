@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Davis_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At delta.com, find the cheapest oneway flight to NYC tomorrow morning from **DEN** in **Comfort+** (Denver, CO 80201)",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Williams_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At zocdoc.com, find a physical therapist available under **4.6+ rating** in the **same-week availability**. (Philadelphia, PA 19101)",
+  "require_reset": false
+}

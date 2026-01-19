@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Rowan_Miller_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for new-with-tags sneakers from top-rated sellers with Free Returns under **$70** in **size 7.5**.",
+  "require_reset": false
+}

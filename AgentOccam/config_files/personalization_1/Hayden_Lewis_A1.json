@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Lewis_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find the hourly precipitation chance, wind gusts, humidity, and RealFeel for my usual city during my usual show window tonight.",
+  "require_reset": false
+}

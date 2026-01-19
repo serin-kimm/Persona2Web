@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Smith_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for a home-office monitor that matches **27-34 inch, 1440p, 144Hz, with DisplayPort and USB-C, max $350** and **sort by review count and include Open Box or refurbished listings**.",
+  "require_reset": false
+}

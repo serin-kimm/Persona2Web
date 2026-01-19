@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Williams_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At Google.com or Map.com, find the live fastest driving route for **my morning commute from the coastal neighborhood to the downtown San Diego office**, and highlight any current slowdowns along the way. (San Diego, CA 92101)",
+  "require_reset": false
+}

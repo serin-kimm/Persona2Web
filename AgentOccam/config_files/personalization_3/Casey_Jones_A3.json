@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Jones_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At amazon.com, find **medium roast, 72-count** K-Cup packs that are eligible for Subscribe & Save and priced at or below **$0.40 per pod**, then add one box to my cart. (Boston, MA 02101)",
+  "require_reset": false
+}

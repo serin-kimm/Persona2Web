@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Emery_Taylor_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for San Diego hotels for next weekend using **3-4 star** rating, **score 8.5+ with 500+ reviews**, and **under $220 per night** budget cap and show the best matches.",
+  "require_reset": false
+}

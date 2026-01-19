@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Riley_Moore_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At coursera.org.com, find and shortlist 3 Specializations in **Generative AI** or **MLOps** that align with **5-8 hours per week**. (Portland, OR 97201)",
+  "require_reset": false
+}

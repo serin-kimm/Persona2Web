@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Drew_Moore_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.duckduckgo.com/",
+  "geolocation": null,
+  "intent": "Query: Search for primary care doctors in my usual area that match my preferred provider gender.",
+  "require_reset": false
+}

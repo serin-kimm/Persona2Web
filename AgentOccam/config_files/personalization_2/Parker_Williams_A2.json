@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Williams_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find downtown hotels near the NYC that match **under $250** per night and **free cancellation** policy and show the cheapest options first.",
+  "require_reset": false
+}

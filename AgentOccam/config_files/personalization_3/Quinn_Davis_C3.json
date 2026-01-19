@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Quinn_Davis_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At rottentomatoes.com, find drama or thriller films from **2020+** that meet **70%+** Tomatometer threshold for a relaxing home stream tonight. (Charlotte, NC 28201)",
+  "require_reset": false
+}

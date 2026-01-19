@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Williams_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a dinner reservation for two that matches my preferred view in my usual area for tomorrow, and apply my usual rating filter.",
+  "require_reset": false
+}

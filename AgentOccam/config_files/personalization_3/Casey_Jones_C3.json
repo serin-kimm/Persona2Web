@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Jones_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At expedia.com, find business hotels in downtown Boston near public transit that match **4-star** rating and **free cancellation, Wi‑Fi, breakfast** amenities, and keep the nightly rate within **under $220 per night**; filter for refundable rates and sort by total price. (Boston, MA 02101)",
+  "require_reset": false
+}

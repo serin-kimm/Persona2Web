@@ -1,0 +1,10 @@
+===== MEMORY CONTEXT =====
+A memory query was made to retrieve user-specific information.
+
+Query: {memory_query}
+Retrieved Answer: {memory_answer}
+Number of relevant memories found: {memories_count}
+
+This information represents the user's historical patterns and preferences.
+Use this to make informed, personalized decisions in the current task.
+==========================

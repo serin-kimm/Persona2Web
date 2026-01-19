@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Wilson_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Check the latest reviews and traveler photos for **The Westin New York Grand Central** and confirm it still meets **rating 4.0+ with 500+ reviews**.",
+  "require_reset": false
+}

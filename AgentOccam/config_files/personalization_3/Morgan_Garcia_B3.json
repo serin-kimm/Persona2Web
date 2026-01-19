@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Garcia_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At eventbrite.com, find a gaming meetup or small convention in **San Antonio** this month with tickets at or below **$30**. (San Antonio, TX 78201)",
+  "require_reset": false
+}

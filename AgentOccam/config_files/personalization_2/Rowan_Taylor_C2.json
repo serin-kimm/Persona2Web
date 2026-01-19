@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Rowan_Taylor_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find paperback books that match **music theory, songwriting, musician's reference** and have **4.4+ stars and 300+ reviews**, then add the best match to my cart.",
+  "require_reset": false
+}

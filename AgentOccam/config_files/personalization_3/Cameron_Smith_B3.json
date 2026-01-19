@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Smith_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At foxsports.com, check the current standings and this week's schedule for the **Baltimore Ravens** and the **Baltimore Orioles**. (Baltimore, MD 21201)",
+  "require_reset": false
+}

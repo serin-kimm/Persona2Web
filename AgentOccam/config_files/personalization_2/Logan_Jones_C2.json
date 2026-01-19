@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Logan_Jones_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find today’s top posts in **data science communities** about upcoming meetups in **Washington, DC** this month, and list the event names, dates, and locations.",
+  "require_reset": false
+}

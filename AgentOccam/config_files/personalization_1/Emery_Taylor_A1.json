@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Emery_Taylor_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Compare unit prices for low-sodium chicken or tomato soups that match my usual can size range and price cap.",
+  "require_reset": false
+}

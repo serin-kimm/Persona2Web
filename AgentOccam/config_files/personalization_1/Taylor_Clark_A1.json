@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Taylor_Clark_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find the same-day delivery window I usually use, add a gallon of milk and a bunch of bananas to the cart, and set delivery to delivery preferences.",
+  "require_reset": false
+}

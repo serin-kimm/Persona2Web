@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Lewis_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At accuweather.com, find the hourly precipitation chance, wind gusts, humidity, and RealFeel for **Houston** during **6-10 PM** tonight. (Houston, TX 77001)",
+  "require_reset": false
+}

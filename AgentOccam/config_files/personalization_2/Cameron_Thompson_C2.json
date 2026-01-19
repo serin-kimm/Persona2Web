@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Thompson_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: On store.steampowered, find PC games currently on sale that match **Casual, Puzzle, Relaxing** tags and **20-30 minute play** session length and meet **buy during sales under $20; Recent Reviews at Mostly Positive or better** criteria; sort by highest discount.",
+  "require_reset": false
+}

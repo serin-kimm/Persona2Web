@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Drew_Moore_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a used vinyl LP from my regular band and era that meets my usual rating, price, condition, and shipping filters, and add the best match to my cart.",
+  "require_reset": false
+}

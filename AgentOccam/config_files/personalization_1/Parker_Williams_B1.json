@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Williams_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a protector that is compatible with previously purchased watch, make sure it satisfies my preferred rating standard, and add it to my cart.",
+  "require_reset": false
+}

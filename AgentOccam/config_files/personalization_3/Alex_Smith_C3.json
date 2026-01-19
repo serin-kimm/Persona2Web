@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Alex_Smith_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At koa.com, find morning guided walks near **San Jose** within **under $80 per adult or included with stay** (San Jose, CA 95101)",
+  "require_reset": false
+}

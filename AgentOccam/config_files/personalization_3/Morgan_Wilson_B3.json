@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Wilson_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At bestbuy.com, find a monitor that matches **27-32 inch, 1440p or 4K, 120Hz or 144Hz, HDMI 2.1; prioritize Open-Box or Geek Squad Certified Refurbished; price up to $450** and **same-day store pickup near Philadelphia, PA 19101**. (Philadelphia, PA 19101)",
+  "require_reset": false
+}

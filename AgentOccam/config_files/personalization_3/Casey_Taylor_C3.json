@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Taylor_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At resy.com, on my go-to booking site, check Saturday evening availability with instant confirmation at **Canard** for **4 people**. (Portland, OR 97201)",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jessica_Thompson_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At instacart.com, search for **cage-free large eggs** and add to cart, staying within **$6.49 per dozen via instacart**. (New York, New York 10001)",
+  "require_reset": false
+}

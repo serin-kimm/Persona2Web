@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Taylor_Jones_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At ebay.com, find gently used men's leather belts suitable for business-casual wear in **size 38**, that match **Top Rated Plus sellers** and **free returns** preference. (Louisville, KY 40201)",
+  "require_reset": false
+}

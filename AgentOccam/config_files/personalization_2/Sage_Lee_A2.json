@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Sage_Lee_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find **decaf medium roast whole bean coffee in 12 oz bags, priced under $12** and add two bags to cart with **same-day delivery with leave at door to Dallas, TX 75201**.",
+  "require_reset": false
+}

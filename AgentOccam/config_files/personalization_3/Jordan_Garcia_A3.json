@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jordan_Garcia_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At recreation.gov.com, on **my usual booking site**, find guided tours at history-rich sites that match **ranger-led cultural or geology tours** and **under $75 per person**. (Chicago, IL 60601)",
+  "require_reset": false
+}

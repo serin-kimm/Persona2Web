@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Smith_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At ebay.com, find men's dress shirts from **Brooks Brothers**, **J.Crew** in **16/34-35** for business-casual office wear. (Baltimore, MD 21201)",
+  "require_reset": false
+}

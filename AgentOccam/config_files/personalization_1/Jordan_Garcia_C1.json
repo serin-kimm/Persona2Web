@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jordan_Garcia_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: On IKEA, find bookcases that meet my usual frame material and safety requirements within my typical budget, and add it to the cart",
+  "require_reset": false
+}

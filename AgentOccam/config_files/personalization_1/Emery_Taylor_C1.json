@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Emery_Taylor_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a monitor that matches my usual monitor specs and my typical price, returns, and ratings thresholds on websites.",
+  "require_reset": false
+}

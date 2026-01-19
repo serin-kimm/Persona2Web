@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Alex_Garcia_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At kohls.com, find men's slim-fit chinos in **32x32** that meet **visible ratings 4.2+ stars with 50+ reviews** (Los Angeles, CA 90210)",
+  "require_reset": false
+}

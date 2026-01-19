@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Riley_Moore_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find tickets for an upcoming concert in **Portland** that match **rock/indie from the 2000s-present**; sort by earliest date.",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Emery_Taylor_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At amazon.com, find a monitor that matches **27–32 inch, 1440p, 144Hz, with DisplayPort or HDMI 2.0** specs and **under $350, free returns, 4.4+ stars from 1,000+ reviews** thresholds on websites. (Phoenix, AZ 85001)",
+  "require_reset": false
+}

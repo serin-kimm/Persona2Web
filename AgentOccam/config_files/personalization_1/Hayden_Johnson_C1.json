@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Johnson_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find hotels for my next West Coast conference stay in my usual area that meet my standard rating criteria; share the top matches with total prices in USD.",
+  "require_reset": false
+}

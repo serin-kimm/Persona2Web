@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Thomas_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find nonstop roundtrip flights from my usual departure airport to Denver for the second weekend next month using my usual fare class on that airline; do not book.",
+  "require_reset": false
+}

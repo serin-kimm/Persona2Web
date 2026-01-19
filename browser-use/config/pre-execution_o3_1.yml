@@ -1,0 +1,21 @@
+experiment_id: "1"
+backbone:
+  provider: "openai"
+  model: "o3"
+scheme: "pre-execution"
+memory_bank_path: "browser_use/memory_bank"
+use_vision: false
+max_steps: 20
+judge:
+  enabled: false
+initial_actions:
+  - navigate:
+      url: "https://www.bing.com"
+      new_tab: false
+system_instruction: |
+  First, you MUST retrieve user's preferred website from their memory bank to support the execution of this query.
+  Then, perform the query.
+  DO NOT try any actions that require log in, phone number and e-mail address.
+  NOTE: ADDRESS must be set first for appropriate items to appear, most of the time.
+  STOP before executing irreversible actions such as payment or reservation confirmation.
+

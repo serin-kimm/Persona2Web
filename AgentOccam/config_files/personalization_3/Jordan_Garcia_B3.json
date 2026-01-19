@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jordan_Garcia_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At glassdoor.com, find the latest educator community threads I usually skim, prioritizing posts from the organizations I follow.\n\nModified Query: Find the latest educator community threads on **tenure-track expectations** and **remote teaching policies**, prioritizing posts from **universities** and **education nonprofits**. (Chicago, IL 60601)",
+  "require_reset": false
+}

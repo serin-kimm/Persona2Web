@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Taylor_Clark_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find the **2-hour window after 6 pm** delivery window, add a gallon of milk and a bunch of bananas to the cart, and set delivery to **leave at door**.",
+  "require_reset": false
+}

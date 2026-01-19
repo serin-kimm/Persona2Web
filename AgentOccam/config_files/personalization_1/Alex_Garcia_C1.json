@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Alex_Garcia_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find online courses that meet my preferred difficulty and ratings standards and fit my usual weekly workload and course length on my preferred platform",
+  "require_reset": false
+}

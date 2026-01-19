@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Quinn_Lewis_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At epicurious.com, search for recipes that match **high-protein, heart-healthy** nutrition focus and **45 minutes or less** time limit. (Seattle, WA 98101)",
+  "require_reset": false
+}

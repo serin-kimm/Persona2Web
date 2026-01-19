@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Miller_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for board games that support **4-6 players** and fit **under 45 minutes** playtime cap, then sort the results by highest rating.",
+  "require_reset": false
+}

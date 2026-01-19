@@ -1,0 +1,82 @@
+logging: True
+verbose: 1
+debug: False
+skip_evaluation: true
+logdir: "AgentOccam-Trajectories"
+logname: "on-demand_o3_1"
+max_steps: 25
+system_instruction: "First, you MUST retrieve user’s preferred website from their memory bank to support the execution of this query. Then, perform the query. DO NOT try any actions that require log in, phone number and e-mail address. NOTE: ADDRESS must be set first for appropriate items to appear, most of the time. STOP before executing irreversible actions such as payment or reservation confirmation."
+memory_bank:
+  model_name: "dunzhang/stella_en_1.5B_v5"
+  memory_bank_path: "AgentOccam/memory_bank/Alex_Garcia.json"
+  llm_model: "o3" # Must match agent.actor.model
+agent:
+  type: "AgentOccam"
+  memory_mode: on-demand # on-demand or pre-execution
+  others:
+    max_steps: 25
+    logname: "on-demand_o3_1"
+    logging: True
+    verbose: 1
+    debug: False
+  actor:
+    debug: 0
+    verbose: 1
+    number: 1
+    model: "o3"
+    documented_interaction_elements: ["url", "plan", "reason", "observation summary", "retained element ids", "observation highlight"]
+    online_interaction_elements: []
+    input: ["step", "objective", "previous plans", "interaction history", "current observation"]
+    interaction_history:
+      verbose: True
+      type: ["text"]
+      step_num: 2
+    current_observation:
+      type: ["text"]
+    output: ["interaction history summary", "observation description", "reason", "action", "observation highlight"]
+    planning_command: ["branch", "prune"]
+    memoryaccess_command: ["memory_access"]
+    navigation_command: ["click", "type", "stop", "note", "go_back"]
+    play: ["step", "objective", "previous plans", "observation description", "reason", "action"]
+    trash: ["objective", "step", "url", "instruction", "online input", "response"]
+  critic:
+    mode: false
+    debug: 0
+    verbose: 1
+    model: "gpt-4-turbo"
+    documented_interaction_elements: []
+    online_interaction_elements: []
+    character: "normal"
+    input: ["objective", "previous plans", "interaction history", "step", "current observation"]
+    interaction_history:
+      verbose: True
+      type: ["text"]
+      step_num: "all"
+    current_observation:
+      type: ["text"]
+    output: ["observation description", "mistakes"]
+    trash: ["instruction", "online input", "response"]
+  judge:
+    mode: false
+    debug: 0
+    verbose: 1
+    model: "gpt-4-turbo"
+    documented_interaction_elements: []
+    online_interaction_elements: []
+    strict: false
+    input: ["objective", "previous plans", "interaction history", "step", "current observation", "action choices"]
+    interaction_history:
+      verbose: True
+      type: ["text"]
+      step_num: "all"
+    current_observation:
+      type: ["text"]
+    output: ["plan progress assessment", "action assessment", "action selection"]
+    trash: ["instruction", "online input", "response"]
+env:
+  fullpage: true
+  prune: true
+  max_browser_rows: 500
+  headless: False
+  relative_task_dir: "personalization_1"
+  task_ids: ["all"]

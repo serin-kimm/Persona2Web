@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Garcia_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At stubhub.com, find concert tickets for **Foo Fighters** or **Luke Combs** on a weekend evening under **$150 USD** per ticket. (San Antonio, TX 78201)",
+  "require_reset": false
+}

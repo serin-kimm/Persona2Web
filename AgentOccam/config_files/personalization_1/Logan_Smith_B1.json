@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Logan_Smith_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Check interactions between my usual OTC pain reliever and my statin, and show any age-related precautions relevant to older adults.",
+  "require_reset": false
+}

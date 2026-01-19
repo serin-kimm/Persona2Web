@@ -1,0 +1,1 @@
+memory_access [query]: Request access to user's memory bank to clarify ambiguous information. Use when the objective contains unclear references like "favorite brand", "my usual price range", "my preferences". The query should specify what information is needed. E.g., memory_access [user's preferred laptop brand], memory_access [previously mentioned destination]

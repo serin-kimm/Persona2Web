@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Rowan_Jones_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At amctheatres.com, find upcoming showtimes at my local theater in **Dolby Cinema or IMAX** and show two items that are priced at or below **$25 per person**. (Chicago, IL 60601)",
+  "require_reset": false
+}

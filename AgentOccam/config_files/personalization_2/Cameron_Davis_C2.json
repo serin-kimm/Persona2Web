@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Davis_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find books in **business and product-management titles (product strategy, UX research)** in **hardcover or Kindle** format; **hardcovers up to $28 USD**; **Kindle up to $12 USD**.",
+  "require_reset": false
+}

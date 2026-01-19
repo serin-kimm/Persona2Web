@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Jones_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At coursera.org.com or udemy.com, compare personal finance basics courses that match **self-paced, beginner or intermediate** course level and **rating 4.5+** standard, and list the top options by rating and review count. (Phoenix, AZ 85001)",
+  "require_reset": false
+}

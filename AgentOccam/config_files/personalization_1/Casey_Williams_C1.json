@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Williams_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.duckduckgo.com/",
+  "geolocation": null,
+  "intent": "Query: Find availability this week for a video visit with a primary care doctor in my usual area to discuss blood pressure management, with accepting my insurance type; share the top 3 matches.",
+  "require_reset": false
+}

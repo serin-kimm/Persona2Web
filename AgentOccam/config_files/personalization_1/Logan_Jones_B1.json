@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Logan_Jones_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find available small-group tours in the trip city for my usual party size and priced within my usual per-person range; show only weekend availability.",
+  "require_reset": false
+}

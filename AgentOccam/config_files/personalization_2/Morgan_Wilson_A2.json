@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Wilson_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Add milk that's safe for **lactose intolerant, needs lactose-free milk** to cart, excluding **vanilla**",
+  "require_reset": false
+}

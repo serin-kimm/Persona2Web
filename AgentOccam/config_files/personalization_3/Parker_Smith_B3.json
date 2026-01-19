@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Smith_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At carnival.com, find and compare shore excursions for our upcoming cruise that match **small-group, low-activity, half-day; coach-based panoramic or cultural sightseeing** preferences and **under $120 USD per person** budget. (Nashville, TN 37201)",
+  "require_reset": false
+}

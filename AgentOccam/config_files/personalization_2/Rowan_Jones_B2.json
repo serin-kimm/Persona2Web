@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Rowan_Jones_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find upcoming showtimes at my local theater in **Dolby Cinema or IMAX** and show two items that are priced at or below **$25 per person**.",
+  "require_reset": false
+}

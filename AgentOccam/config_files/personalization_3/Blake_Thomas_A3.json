@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Blake_Thomas_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At resy.com, Check dinner reservation availability at **new american or seafood or italian** for **table for 4**",
+  "require_reset": false
+}

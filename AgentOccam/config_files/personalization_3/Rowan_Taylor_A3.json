@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Rowan_Taylor_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At resy.com, find a same-day reservation for 2 tomorrow night at **Nobu Palo Alto** with **counter seats**.",
+  "require_reset": false
+}

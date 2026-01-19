@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Alex_Lee_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Check availability for a table at **Guard and Grace**; **Xochi** during **9:30–11:00 pm**.",
+  "require_reset": false
+}

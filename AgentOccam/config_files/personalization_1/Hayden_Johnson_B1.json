@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Johnson_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a current evidence-based sports medicine physical therapy paperback that meets my usual edition year, format, price caps, and my minimum rating and review count, and add it to my cart with my usual release-day delivery option when available on websites.",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jordan_Rodriguez_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At carnival.com, search Carnival for shore excursions for my upcoming itinerary that match **culture and history** and stay within **under $120 USD** per person. (Austin, TX 78701)",
+  "require_reset": false
+}

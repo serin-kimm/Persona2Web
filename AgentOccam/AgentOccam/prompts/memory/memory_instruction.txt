@@ -1,0 +1,16 @@
+===== USER PREFERENCES AND HISTORY FROM MEMORY =====
+The following information has been retrieved from the user's memory bank based on the current context:
+
+Query: {memory_query}
+Answer: {memory_answer}
+
+IMPORTANT GUIDELINES FOR USING MEMORY:
+1. Prioritize the specific brands, products, or services mentioned in the memory
+2. Follow the patterns and preferences indicated by the user's history
+3. When multiple options are available, choose based on the user's past behavior
+4. Maintain consistency with the user's established preferences
+5. If the memory suggests specific locations, times, or methods, use them
+6. Do not deviate from known preferences unless explicitly required by the objective
+
+This personalized information should guide your decisions to align with the user's expectations and habits.
+=====================================================

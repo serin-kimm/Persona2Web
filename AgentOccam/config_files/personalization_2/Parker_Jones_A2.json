@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Jones_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a utility shelving unit that matches **freestanding metal-frame utility shelving with listed 200+ lb per-shelf capacity** and **Ship to Home or scheduled delivery** within **Phoenix, AZ 85001**, and add the top match to cart.",
+  "require_reset": false
+}

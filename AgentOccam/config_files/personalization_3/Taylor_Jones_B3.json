@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Taylor_Jones_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At delta.com, show me a round-trip option from my home city to New York City limited to **$500** that include **Comfort** seat type; no reservations required. (Louisville, KY 40201)",
+  "require_reset": false
+}

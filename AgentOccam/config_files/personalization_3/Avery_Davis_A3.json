@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Avery_Davis_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At redbox.com, find on-demand movie rentals from my regular service in **comedy and teen drama** genres that fit **under $6** rental price limit, prioritizing new releases. (Charlotte, NC 28201)",
+  "require_reset": false
+}
