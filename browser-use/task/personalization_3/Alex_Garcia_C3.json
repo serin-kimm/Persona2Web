@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Alex_Garcia_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At coursera.org.com, find online courses that meet **Intermediate or Advanced** difficulty and **rating ≥4.6 and ≥1,000 reviews** standards and fit **3–5 hours/week over 4–6 weeks** on my preferred platform. (Los Angeles, CA 90210)",
+  "require_reset": false
+}

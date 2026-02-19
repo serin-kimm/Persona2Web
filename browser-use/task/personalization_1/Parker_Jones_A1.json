@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Jones_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a utility shelving unit that matches my regular Menards shelving preferences and my preferreddelivery option within my address, and add the top match to cart.",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Williams_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a physical therapist available under my preferred review standard in the usual location.",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jessica_Thompson_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find hotels for a leisure weekend that match **design-forward hotels** style and **4.5+ traveler rating with 500+ reviews** thresholds; share the top 3 matches.",
+  "require_reset": false
+}

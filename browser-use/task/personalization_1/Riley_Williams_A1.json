@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Riley_Williams_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a small-space shoe cabinet that matches my preferred finishes, check home delivery availability to my address, and add the best match to cart for review.",
+  "require_reset": false
+}

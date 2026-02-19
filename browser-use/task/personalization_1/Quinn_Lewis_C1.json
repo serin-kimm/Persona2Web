@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Quinn_Lewis_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find an ikea bookcase that fits my budget, then check delivery availability to my area.",
+  "require_reset": false
+}

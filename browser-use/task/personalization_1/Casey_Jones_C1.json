@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Jones_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find business hotels in downtown Boston near public transit that match my preferred star rating and amenities, and keep the nightly rate within my usual budget; filter for refundable rates and sort by total price.",
+  "require_reset": false
+}

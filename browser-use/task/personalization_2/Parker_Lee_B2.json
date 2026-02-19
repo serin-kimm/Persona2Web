@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Lee_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find the earliest available dining reservation at **St. Elmo Steak House** with **private dining** for a client dinner in downtown Indianapolis.",
+  "require_reset": false
+}

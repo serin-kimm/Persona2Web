@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Blake_Thomas_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Check the hourly forecast for **weekday commute** during **7-9 AM and 5-7 PM**, presented in the forecast details and units I usually track: **Temperature in F with precipitation chance and wind**.",
+  "require_reset": false
+}

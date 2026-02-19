@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Miller_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: On websites, find this week's schedule, the latest **game highlights, weekly schedules, and basic injury updates for key players** before the next game, and the most recent game highlights for the **Dallas Cowboys**.",
+  "require_reset": false
+}

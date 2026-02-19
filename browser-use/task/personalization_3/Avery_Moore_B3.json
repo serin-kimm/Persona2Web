@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Avery_Moore_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At rottentomatoes.com, find movies available to stream that match **drama and comedy** genres and meet **Tomatometer over 80%** critics score threshold. (Seattle, WA 98101)",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Quinn_Lewis_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find milk that does not contain my usual allergens and available with my preferred delivery option.",
+  "require_reset": false
+}

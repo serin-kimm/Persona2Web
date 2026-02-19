@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Jones_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find **medium roast, 72-count** K-Cup packs that are eligible for Subscribe & Save and priced at or below **$0.40 per pod**, then add one box to my cart.",
+  "require_reset": false
+}

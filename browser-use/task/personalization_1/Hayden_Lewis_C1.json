@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Lewis_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for accurate guitar tabs with my preferred tab difficulty focused on clean funk and psych-rock rhythms from my usual practice artists; exclude heavy metal entries.",
+  "require_reset": false
+}

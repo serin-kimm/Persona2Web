@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Miller_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for an external SSD that matches my usual capacity, port, and applying my standard seller and shipping filters; sort by customer rating and show the top results.",
+  "require_reset": false
+}

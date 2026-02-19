@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Alex_Garcia_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find men's slim-fit chinos in **32x32** that meet **visible ratings 4.2+ stars with 50+ reviews**",
+  "require_reset": false
+}

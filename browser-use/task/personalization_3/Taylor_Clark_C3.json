@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Taylor_Clark_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At amazon.com, find the latest-edition paperback nursing reference handbook that meets **under $25 USD** and **4.4+ stars with 500+ reviews**, then add the best match to my cart. (Columbus, OH 43085)",
+  "require_reset": false
+}

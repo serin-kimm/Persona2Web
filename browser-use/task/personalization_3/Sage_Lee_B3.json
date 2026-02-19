@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Sage_Lee_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At amazon.com, find a hospitality operations book in Kindle format that meets **4.3+ stars** and **500+ reviews** and falls within **Kindle $10-$15 USD**; show the top result available. (Dallas, TX 75201)",
+  "require_reset": false
+}

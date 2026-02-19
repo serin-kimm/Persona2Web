@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Miller_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At newegg.com, search for an external SSD that matches **1TB-2TB** capacity, **USB-C** port, and applying **'Sold by Newegg' or sellers rated 4.5+ stars with 500+ reviews, with Free Shipping** filters; sort by customer rating and show the top results. (Phoenix, AZ 85001)",
+  "require_reset": false
+}

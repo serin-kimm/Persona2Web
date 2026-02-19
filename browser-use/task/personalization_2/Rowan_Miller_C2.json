@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Rowan_Miller_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for dinner recipes that match **20-30 minutes** and use **pantry staples and in-season Baltimore produce**.",
+  "require_reset": false
+}

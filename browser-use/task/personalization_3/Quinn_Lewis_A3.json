@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Quinn_Lewis_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At amazon.com, find milk that does not contain **nut allergy** and available with **delivery with same day shipping**. (Seattle, WA 98101)",
+  "require_reset": false
+}

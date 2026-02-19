@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Rowan_Jones_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for the latest news that I regularly check on Sundays regarding my favorite NFL team.",
+  "require_reset": false
+}

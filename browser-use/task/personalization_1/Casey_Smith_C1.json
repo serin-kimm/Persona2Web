@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Smith_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find my preferred business-trip car class for a 2-3 day business trip with my usual pickup and return, and show options that stay within my typical daily rate limit.",
+  "require_reset": false
+}

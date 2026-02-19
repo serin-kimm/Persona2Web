@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Williams_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for highly rated chord tabs for **Phoebe Bridgers** and **Arctic Monkeys**, prioritizing **simplified acoustic arrangements**.",
+  "require_reset": false
+}

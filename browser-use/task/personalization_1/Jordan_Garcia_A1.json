@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jordan_Garcia_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: On my usual booking site, find guided tours at history-rich sites that match my preferred tour types and my target price per person.",
+  "require_reset": false
+}

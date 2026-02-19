@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Jones_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a Thunderbolt dock that matches **Thunderbolt 4 dock supporting dual 4K displays and 85W+ laptop charging**, **open-box acceptable under $300**, and confirm that **warranty coverage is included**.",
+  "require_reset": false
+}

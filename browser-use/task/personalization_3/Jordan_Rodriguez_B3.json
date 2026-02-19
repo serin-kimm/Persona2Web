@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jordan_Rodriguez_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At ticketcenter.com, find seats for an upcoming concert in **Austin** in **rock and alternative** genres. (Austin, TX 78701)",
+  "require_reset": false
+}

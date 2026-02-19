@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Williams_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find the live fastest driving route for my morning commute from my usual starting point to my usual destination, and highlight any current slowdowns along the way.",
+  "require_reset": false
+}

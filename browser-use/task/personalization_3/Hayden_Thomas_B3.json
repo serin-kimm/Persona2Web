@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Thomas_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At united.com, find nonstop roundtrip flights from **DFW** to Denver for the second weekend next month using **Economy** class on that airline; do not book. (Dallas, TX 75201)",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Williams_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a protector that is compatible with **Apple Watch Series 9 (GPS), 45mm band options**, make sure it satisfies **4.5+ rating with 1,000+ reviews**, and add it to my cart.",
+  "require_reset": false
+}

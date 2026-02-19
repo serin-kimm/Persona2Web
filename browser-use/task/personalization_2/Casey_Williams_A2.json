@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Williams_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a dinner reservation for two that matches my preferred view in **La Jolla** for tomorrow, and apply **rated 4.4+ stars with 200+ reviews**.",
+  "require_reset": false
+}

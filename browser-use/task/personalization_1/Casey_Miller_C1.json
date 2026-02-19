@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Miller_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a one-way nonstop flight from my usual origin airport to San Diego on the first Friday next month, departing in my usual window after classes, sorted by lowest price.",
+  "require_reset": false
+}

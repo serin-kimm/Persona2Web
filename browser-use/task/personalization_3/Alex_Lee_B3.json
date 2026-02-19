@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Alex_Lee_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At underarmour.com, find women’s performance leggings in **Women's M** size within **$70** budget and add the top option to cart. (Houston, TX 77001)",
+  "require_reset": false
+}

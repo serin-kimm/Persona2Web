@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Garcia_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a gaming meetup or small convention in my usual city this month with tickets at or below my usual ticket budget.",
+  "require_reset": false
+}

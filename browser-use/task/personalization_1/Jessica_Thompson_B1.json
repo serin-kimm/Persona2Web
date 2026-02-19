@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jessica_Thompson_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find iPad options that match my preferred configuration and my budget, including refurbished if available; sort by price low to high.",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Sage_Smith_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find availability and total cost for **midsize or full-size sedans** rental from **LAX** with **midsize or full-size sedans**, picking up October 20th at 10:00 AM and returning 10 days after at 6:00 PM.",
+  "require_reset": false
+}

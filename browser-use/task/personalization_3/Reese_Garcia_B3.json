@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Reese_Garcia_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At accuweather.com, check the hourly forecast for **Los Angeles** on my preferred weather site and display it in **Fahrenheit**. (Los Angeles, CA 90210)",
+  "require_reset": false
+}

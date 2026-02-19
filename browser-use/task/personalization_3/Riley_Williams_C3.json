@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Riley_Williams_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At target.com, find salad considering **allergic to shellfish** and **under $5.99**, then add the best match to my cart. (Jacksonville, FL 32099)",
+  "require_reset": false
+}

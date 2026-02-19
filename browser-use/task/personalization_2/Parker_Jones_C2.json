@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Jones_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Compare personal finance basics courses that match **self-paced, beginner or intermediate** course level and **rating 4.5+** standard, and list the top options by rating and review count.",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Miller_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At eventbrite.com, find outdoor or community movie screenings with general admission in **Fort Worth** that match **comedy and family** event genres, and list upcoming options I can register for. (Fort Worth, TX 76101)",
+  "require_reset": false
+}

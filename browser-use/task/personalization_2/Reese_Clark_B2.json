@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Reese_Clark_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for tickets to **Hozier, The Killers** in my city and show seats within **under $150**.",
+  "require_reset": false
+}

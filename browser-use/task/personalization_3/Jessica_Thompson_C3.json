@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jessica_Thompson_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At tripadvisor.com, find hotels for a leisure weekend that match **design-forward hotels** style and **4.5+ traveler rating with 500+ reviews** thresholds; share the top 3 matches. (New York, New York 10001)",
+  "require_reset": false
+}

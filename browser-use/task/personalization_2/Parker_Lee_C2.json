@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Lee_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a paperback music theory or ear training book that fits **under $20** and **4.4+ stars with 500+ ratings**, then add it to my cart.",
+  "require_reset": false
+}

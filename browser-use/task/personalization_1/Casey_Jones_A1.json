@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Jones_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find my preferred K-Cup roast and pack count that are eligible for Subscribe & Save and priced at or below my per-pod price cap, then add one box to my cart.",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jessica_Thompson_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find iPad options that match **> 8inch with 256GB or more storage, compatible with Apple Pencil (2nd gen)** and **up to $1,200**, including refurbished if available; sort by price low to high.",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Miller_C1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: On websites, find this week's schedule, the latest my preferred content before the next game, and the most recent game highlights for the team I follow.",
+  "require_reset": false
+}

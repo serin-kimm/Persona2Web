@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Alex_Smith_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find available hotels on **my preferred site** that match **pet-friendly and breakfast included** amenity requirements and meet **guest rating >= 8.5 with at least 200 reviews** standards.",
+  "require_reset": false
+}

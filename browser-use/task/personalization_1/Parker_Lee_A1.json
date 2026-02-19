@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Lee_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search and compare roundtrip flight options for weekend travel from Indianapolis to Chicago using my usual overall budget, and departure-time window.",
+  "require_reset": false
+}

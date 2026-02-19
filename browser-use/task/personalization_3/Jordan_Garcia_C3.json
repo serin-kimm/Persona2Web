@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jordan_Garcia_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At ikea.com, on IKEA, find bookcases that meet **solid wood or metal frame** material and safety requirements within **$250**, and add it to the cart. (Chicago, IL 60601)",
+  "require_reset": false
+}

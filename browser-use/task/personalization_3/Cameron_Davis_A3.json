@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Davis_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At webmd.com, find how **yoga** helps with hormonal symptoms from **menopause** (Denver, CO 80201)",
+  "require_reset": false
+}

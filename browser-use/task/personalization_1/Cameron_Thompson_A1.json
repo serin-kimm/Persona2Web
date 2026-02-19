@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Thompson_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: On weather, check the hourly precipitation and wind forecast for this morning in my usual weekday commute city, with temperatures shown in my preferred units.",
+  "require_reset": false
+}

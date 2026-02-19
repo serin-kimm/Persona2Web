@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Lee_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At tripadvisor.com, search and compare roundtrip flight options for weekend travel from Indianapolis to Chicago using **under $500 total** budget, and **departures after 1 pm**. (Indianapolis, IN 46201)",
+  "require_reset": false
+}

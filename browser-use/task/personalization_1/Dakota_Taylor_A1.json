@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Dakota_Taylor_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find round-trip weekend flights for next weekend from my home airport to NYC, and apply my preferred departure window.",
+  "require_reset": false
+}

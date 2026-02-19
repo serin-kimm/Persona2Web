@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Rowan_Jones_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find women's tops for light workouts that match **Women's M tops** and **$40**, then add the best-reviewed in-stock option to my cart.",
+  "require_reset": false
+}

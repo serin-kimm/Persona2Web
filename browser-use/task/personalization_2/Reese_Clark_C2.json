@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Reese_Clark_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for Python or SQL for finance courses that match **under $30 USD** budget and **under 15 hours total** length preferences; sort by relevance and add the top two matches to my cart for review.",
+  "require_reset": false
+}

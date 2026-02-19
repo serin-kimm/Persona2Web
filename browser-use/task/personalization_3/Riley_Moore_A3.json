@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Riley_Moore_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At kohls.com, find women's office blazers that match **under $90** and **rating 4.2+ with 50+ reviews** for that store, show the top three options. (Portland, OR 97201)",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Taylor_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: On kayak, search for Friday afternoon flights that fit my weekday departure time filter on kayak and my layover limit on kayak.",
+  "require_reset": false
+}

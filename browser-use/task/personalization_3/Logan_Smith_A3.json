@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Logan_Smith_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At accuweather.com, check the weather during the time of day **07:00-08:00** in **Boston**. (Boston, MA 02101)",
+  "require_reset": false
+}

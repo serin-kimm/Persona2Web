@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Thomas_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search for a dinner reservation for two this Wednesday around 6:30 pm near **Downtown Dallas**, with instant confirmation, filtered by **Italian or steakhouse** cuisines; share the top 3 matches.",
+  "require_reset": false
+}

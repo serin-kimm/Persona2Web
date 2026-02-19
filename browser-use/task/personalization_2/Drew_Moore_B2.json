@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Drew_Moore_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find a used vinyl LP from **Foo Fighters** from the **1990s–2000s** that meets a **4.0+ rating**, is priced **under $20**, is in **Good+ or better** condition, and has **shipping under $5**, and add the best match to my cart.",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Jones_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Check prices for an upcoming concert that matches **classic rock or blues, Bruce Springsteen and Santana**, showing ticket options within **$150** per ticket.",
+  "require_reset": false
+}

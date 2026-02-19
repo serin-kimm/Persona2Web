@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Taylor_B2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: On kayak, search for Friday afternoon flights that fit **weekday departures after 4 pm to fit a school schedule** and **nonstop or at most 1 layover**.",
+  "require_reset": false
+}

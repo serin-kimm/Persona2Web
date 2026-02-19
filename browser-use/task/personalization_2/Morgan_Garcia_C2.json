@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Morgan_Garcia_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: List up 2 marketing courses that match **intermediate** with **>= 1,000 ratings**",
+  "require_reset": false
+}

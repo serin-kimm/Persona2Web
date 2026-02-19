@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Johnson_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At instacart.com, find **24-pack 16.9oz cases; avoid single bottles** under **$5.99** and add to cart (San Antonio, TX 78201)",
+  "require_reset": false
+}

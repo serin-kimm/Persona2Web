@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Rowan_Miller_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At amctheatres.com, find this weekend's evening showtimes at a nearby AMC Theatres location for a new action release and check availability for adjacent seats in **reserved recliner seats in the middle rows** while keeping it within **under $15 USD per person**. (Baltimore, MD 21201)",
+  "require_reset": false
+}

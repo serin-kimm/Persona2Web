@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Dakota_Taylor_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At resy.com, search for a weekend dinner reservation at **Uchi Denver** for **a table for four** and show the earliest available times. (Denver, CO 80201)",
+  "require_reset": false
+}

@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Avery_Davis_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find on-demand movie rentals from my regular service in **comedy and teen drama** genres that fit **under $6** rental price limit, prioritizing new releases.",
+  "require_reset": false
+}

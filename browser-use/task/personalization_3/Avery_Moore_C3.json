@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Avery_Moore_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At amazon.com, find a new desk in **solid wood** under **<= $100** and add it to the cart (Seattle, WA 98101)",
+  "require_reset": false
+}

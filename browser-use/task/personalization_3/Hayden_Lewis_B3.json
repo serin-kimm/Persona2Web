@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Hayden_Lewis_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At health.usnews.com, find doctors for **otolaryngologists (ENT) who treat voice disorders** within **10 miles of central Houston**, sorted by patient rating. (Houston, TX 77001)",
+  "require_reset": false
+}

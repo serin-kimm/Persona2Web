@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Emery_Taylor_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At shopping.google.com, compare unit prices for low-sodium chicken or tomato soups that match **10.5-15 oz** can size range and **under $2.50** per can. (Phoenix, AZ 85001)",
+  "require_reset": false
+}

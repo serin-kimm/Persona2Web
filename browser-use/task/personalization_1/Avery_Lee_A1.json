@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Avery_Lee_A1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Check availability for guided tours this weekend that start at my preferred tour start time and fit within my typical per-person budget",
+  "require_reset": false
+}

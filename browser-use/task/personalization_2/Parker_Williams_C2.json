@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Parker_Williams_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find movie that meet **Tomatometer 80%+** and **thrillers and dramas** for a relaxing home stream, and sort by the newest.",
+  "require_reset": false
+}

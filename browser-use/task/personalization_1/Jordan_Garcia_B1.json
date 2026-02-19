@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Jordan_Garcia_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find the latest educator community threads I usually skim, prioritizing posts from the organizations I follow.",
+  "require_reset": false
+}

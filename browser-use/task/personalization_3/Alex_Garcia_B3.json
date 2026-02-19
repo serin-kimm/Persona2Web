@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Alex_Garcia_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At seatgeek.com, check seat availability for upcoming concerts in **Hip-hop/R&B** with seats in **lower-bowl seats near the stage** (Los Angeles, CA 90210)",
+  "require_reset": false
+}

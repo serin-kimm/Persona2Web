@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Taylor_Clark_B3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At kayak.com, find **Hilton Columbus Downtown, Hyatt Regency Columbus**, apply **$120-$180**, and list up the top two rooms that meet the criteria.",
+  "require_reset": false
+}

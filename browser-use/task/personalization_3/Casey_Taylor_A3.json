@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Taylor_A3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At amazon.com, find the latest AP U.S. History exam prep book in **eBook** format that fits **at or below $25 USD** and my release preference for new edition AP prep books on websites with **\"Pre-order\"** or **\"Release-day delivery\"** options. (Portland, OR 97201)",
+  "require_reset": false
+}

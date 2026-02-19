@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Casey_Smith_C2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find **enterprise midsize or full-size** car class for a 2-3 day business trip with **early morning pickup at BNA** and **late evening return at an enterprise neighborhood location**, and show options that stay within **my typical daily rate limit**.",
+  "require_reset": false
+}

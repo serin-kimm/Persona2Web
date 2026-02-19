@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Reese_Clark_A2",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Find men's suits in **38R jacket, 32x32 pants** that stay within **up to $350**.",
+  "require_reset": false
+}

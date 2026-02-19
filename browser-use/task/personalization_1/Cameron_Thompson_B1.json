@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Cameron_Thompson_B1",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: Search the Discogs Marketplace for vinyl LPs in my preferred era and genres priced under my budget cap, sorted by newly listed.",
+  "require_reset": false
+}

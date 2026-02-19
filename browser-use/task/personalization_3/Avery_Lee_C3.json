@@ -1,0 +1,12 @@
+{
+  "sites": [
+    "bing"
+  ],
+  "task_id": "Avery_Lee_C3",
+  "require_login": false,
+  "storage_state": null,
+  "start_url": "https://www.bing.com/",
+  "geolocation": null,
+  "intent": "Query: At jetblue.com, find oneway flights to NYC tomorrow matching **economy** from **SFO** (San Francisco, CA 94102)",
+  "require_reset": false
+}
